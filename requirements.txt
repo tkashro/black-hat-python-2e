@@ -1,0 +1,10 @@
+paramiko
+requests
+lxml
+beautifulsoup4
+github3.py
+pywin32
+pycryptodomex
+wmi
+pyinstaller
+pycryptodome
